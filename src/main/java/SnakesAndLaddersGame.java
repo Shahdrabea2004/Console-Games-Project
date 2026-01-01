@@ -62,28 +62,28 @@ public class SnakesAndLaddersGame {
 
     /**
      * Initializes game state.
-     *
+     * <p>
      * TODO:
      * - Reset player positions
      * - Set starting turn
      */
     private static void initializeGame() {
         // TODO
-        player1Position=0;
-        player2Position=0;
-        playerOneTurn=true;
+        player1Position = 0;
+        player2Position = 0;
+        playerOneTurn = true;
     }
 
     /**
      * Simulates rolling a dice.
-     *
+     * <p>
      * TODO:
      * - Generate random number between 1 and 6
      */
     private static int rollDice() {
         // TODO
-        Random random =new Random();
-        int randomDice=random.nextInt(6)+1;
+        Random random = new Random();
+        int randomDice = random.nextInt(6) + 1;
         return randomDice;
     }
 
@@ -123,29 +123,28 @@ public class SnakesAndLaddersGame {
 
     /**
      * Checks if current player has won.
-     *
+     * <p>
      * TODO:
      * - Check if position reached WIN_POSITION
      */
     private static boolean checkWinner() {
         // TODO
-        boolean check=(player1Position==100||player2Position==100)?true:false;
+        boolean check = (player1Position == 100 || player2Position == 100) ? true : false;
         return check;
     }
 
     /**
      * Switches turn between players.
-     *
+     * <p>
      * TODO:
      * - Toggle playerOneTurn
      */
     private static void switchTurn() {
         // TODO
-        if(playerOneTurn == true){
-            playerOneTurn=false;
-        }
-        else{
-            playerOneTurn=true;
+        if (playerOneTurn == true) {
+            playerOneTurn = false;
+        } else {
+            playerOneTurn = true;
         }
 
     }

@@ -87,7 +87,8 @@
       <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/src/Task1/Student.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/src/Task2/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/src/Task2/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TicTacToeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fawry_task_2/.idea/fawry_task_2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fawry_task_2/Book.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fawry_task_2/EBook.java" beforeDir="false" />
@@ -111,6 +112,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -156,7 +160,7 @@
       <updated>1766059318506</updated>
       <workItem from="1766059319571" duration="484000" />
       <workItem from="1766741094865" duration="71000" />
-      <workItem from="1767207077992" duration="4921000" />
+      <workItem from="1767207077992" duration="14191000" />
     </task>
     <servers />
   </component>
@@ -175,6 +179,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/SnakesAndLaddersGame.java</url>
           <line>34</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TicTacToeGame.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/SnakesAndLaddersGame.java</url>
