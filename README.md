@@ -14,8 +14,14 @@ Each game runs in the console and demonstrates basic Java programming concepts l
    - Winner check (first to reach position 100 wins)
    - Console interaction for input (press ENTER to roll dice)
 
-2. **[Game 2 Name]**
-   - Short description of game 2.
+2. **Tic Tac Toe**
+   - Classic 3x3 grid game for 2 players or vs computer.
+   - Players take turns placing X or O.
+   - Option to play against another player or the computer.
+   - First to align 3 symbols in a row, column, or diagonal wins.
+   - Winner gets a random prize (Pen, Candy, Sticker, Keychain, Eraser).
+   - Handles invalid moves and draws.
+   - Console interaction for input (enter row and column 0–2).
 
 3. **[Game 3 Name]**
    - Short description of game 3.
