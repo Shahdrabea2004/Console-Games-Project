@@ -5,98 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9452cb8-f6ef-4289-bf77-ed8694fb820c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../HackerRank/Welcome_to_Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EraaSoft Tasks OOP Java/Description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Fawry_Task/.idea/Fawry.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Fawry_Task/out/production/Fawry/.idea/Fawry.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/OOP_Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/Project Description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Example5/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Example5/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Example5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Example5/PersonalInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples/OuterClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples10/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples10/MainInnerListenerInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples10/RewardClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples10/TestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples11/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples11/Numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples11/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples12/CustomException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples12/InsufficientFundsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples12/InvalidAmountException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples12/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples12/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples12/Main3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples12/MyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples12/NoNameBank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples2/Math.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples2/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples3/Developer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples3/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples4/DailyEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples4/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples4/HourlyEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples4/SalariedEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples6/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples6/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples7/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples8/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples8/Hatchback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples8/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples8/SUV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples8/SUVAbdo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples8/SUVShahd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/CarV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/CarV11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/GenericInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/MarkerInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/Movable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/NewInterfaceVersion7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/SelfDrivable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/Showable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Examples9/TastNestedInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Task_1/Courses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Task_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../My Tasks OOP Java/src/Task_1/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP Java/.idea/OOP Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP Java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP Java/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/Tasks OOP Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/src/Task1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/src/Task1/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/src/Task2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tasks OOP Java/src/Task2/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TicTacToeGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fawry_task_2/.idea/fawry_task_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fawry_task_2/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fawry_task_2/EBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fawry_task_2/PaperBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fawry_task_2/QuantumBookstore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fawry_task_2/QuantumBookstoreFullTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fawry_task_2/ShowcaseBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fawry_task_2/out/production/fawry_task_2/.idea/fawry_task_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MemoryMatchGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MemoryMatchGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +72,8 @@
       <updated>1766059318506</updated>
       <workItem from="1766059319571" duration="484000" />
       <workItem from="1766741094865" duration="71000" />
-      <workItem from="1767207077992" duration="14191000" />
+      <workItem from="1767207077992" duration="15414000" />
+      <workItem from="1769630253310" duration="7112000" />
     </task>
     <servers />
   </component>
@@ -184,24 +97,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/TicTacToeGame.java</url>
           <line>13</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/SnakesAndLaddersGame.java</url>
-          <line>37</line>
-          <properties class="SnakesAndLaddersGame" method="playGame">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/SnakesAndLaddersGame.java</url>
-          <line>69</line>
-          <properties class="SnakesAndLaddersGame" method="initializeGame">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
