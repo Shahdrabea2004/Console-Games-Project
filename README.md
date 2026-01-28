@@ -5,7 +5,7 @@ Each game runs in the console and demonstrates basic Java programming concepts l
 
 ## Included Games
 
-1. **Snakes and Ladders**
+1. **Snakes and Ladders Game**
    - Classic board game simulation for two players.
    - Dice roll (1–6)
    - Player movement
@@ -14,7 +14,7 @@ Each game runs in the console and demonstrates basic Java programming concepts l
    - Winner check (first to reach position 100 wins)
    - Console interaction for input (press ENTER to roll dice)
 
-2. **Tic Tac Toe**
+2. **Tic Tac Toe Game**
    - Classic 3x3 grid game for 2 players or vs computer.
    - Players take turns placing X or O.
    - Option to play against another player or the computer.
@@ -38,10 +38,16 @@ Each game runs in the console and demonstrates basic Java programming concepts l
    - Winner is the player with the highest score.
    - Console-based interaction (enter row and column for each card).
 
-4. **[Game 4 Name]**
-   - Short description of game 4.
+4. **Connect 4 Game**
+   - Two-player strategy game.
+   - Players take turns dropping discs into a 7-column, 6-row grid.
+   - Player 1 is (Red), Player 2 is (Blue).
+   - Discs fall to the lowest available space in the chosen column.
+   - Objective: Connect 4 discs in a row, column, or diagonal to win.
+   - Handles invalid moves (full columns) and draw situations.
+   - Console-based interaction (enter column number 0–6).
 
-## How to Run Snakes and Ladders
+## How to Run 
 1. Navigate to the game folder.
 2. Compile the Java file:
 3. Run the main class:
