@@ -1,7 +1,7 @@
 # Console-Games-Project
 
 This repository contains 4 small console-based games written in Java.  
-Each game runs in the console and demonstrates basic Java programming concepts like loops, conditionals, and user input.
+Each game runs in the console and demonstrates basic Java programming concepts like loops, conditionals, Arrays, and user input.
 
 ## Included Games
 
